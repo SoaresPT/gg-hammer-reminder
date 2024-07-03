@@ -13,4 +13,4 @@ Provides an overlay and prevents you from ringing the bell to start the encounte
     - **Remove Right-click Menu:** Toggle to remove or keep right-click menu options when trying to start the encounter without a hammer.
 
 ## Overlay Example
-...
+![image](https://github.com/SoaresPT/gg-hammer-reminder/assets/9897471/089236ca-3d6e-4a8a-8948-5f17fbeeb54d)
